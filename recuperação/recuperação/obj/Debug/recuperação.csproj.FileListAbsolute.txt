@@ -1,0 +1,15 @@
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.alterarSenha.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.Form1.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.Properties.Resources.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.Cadastro.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.TelaMenu.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.CadFornecedor.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.CadFuncionarios.resources
+C:\Users\aluno\source\repos\recuperação\recuperação\bin\Debug\recuperação.exe.config
+C:\Users\aluno\source\repos\recuperação\recuperação\bin\Debug\recuperação.exe
+C:\Users\aluno\source\repos\recuperação\recuperação\bin\Debug\recuperação.pdb
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.exe
+C:\Users\aluno\source\repos\recuperação\recuperação\obj\Debug\recuperação.pdb
